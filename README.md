@@ -11,8 +11,8 @@ This is a course project for ECE-7123 Deep Learning of Youwen Zhang (yz6999) and
 ```
 ├── data/                  -- data dir
 ├── src/                   -- scripts for model training, evaluation, and others
-|		 ├── GAN.ipynb         -- GAN model training scirpt
-|		 ├── Evaluation.ipynb  -- evaluation script for FID
+|    ├── GAN.ipynb         -- GAN model training scirpt
+|    ├── Evaluation.ipynb  -- evaluation script for FID
 |    └── ResNet50.ipynb    -- ResNet50 training and evaluation script
 ├── images/                -- results
 └── README.md              -- readme
